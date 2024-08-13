@@ -25,4 +25,5 @@ Clique em instalar VSIX:
 
 E selecione os arquivos 1 por 1 que são VSIX no repo.
 
+No caso de baixar o profile, baixe o `_.obsolete` para `.obsolate`
 <b>Pronto profile instalado!</b>
