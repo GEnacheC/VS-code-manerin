@@ -1,2 +1,5 @@
 # VS-code-manerin
-Some files to import in vs code during CS class
+## Extensão com intellisense de C/C++:
+https://github.com/microsoft/vscode-cpptools/releases/tag/v1.21.6
+
+
